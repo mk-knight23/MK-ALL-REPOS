@@ -1,7 +1,6 @@
-# MK ALL REPOS
-# This wll contain all Major Repos BY MK
+# This wll contain all Major Repos BY MK KNIGHT
  
-# - [Car](https://github.com/mk-knight23/mk3) ALL DEPLOYMENT
+# - [Car](https://github.com/mk-knight23/mk3)
 
 # - [fb-login-form](https://github.com/mk-knight23/fb-login-form)
 

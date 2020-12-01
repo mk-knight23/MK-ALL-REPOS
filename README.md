@@ -32,6 +32,8 @@
 
 # - [typing12](https://github.com/mk-knight23/typing12)
 
+# - [theory](https://github.com/mk-knight23/theory)
+
 # - [imdbApi](https://github.com/mk-knight23/imdbApi)
 
 # - [git-kraken-repo](https://github.com/mk-knight23/git-kraken-repo)

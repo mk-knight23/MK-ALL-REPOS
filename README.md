@@ -36,6 +36,8 @@
 
 # - [future](https://github.com/mk-knight23/future)
 
+# - [fox](https://github.com/mk-knight23/fox)
+
 # - [imdbApi](https://github.com/mk-knight23/imdbApi)
 
 # - [git-kraken-repo](https://github.com/mk-knight23/git-kraken-repo)

@@ -18,6 +18,8 @@
 
 # - [docusaurus-2](https://github.com/mk-knight23/docusaurus-2)
 
+# - [datocms-gatsby-po](https://github.com/mk-knight23/datocms-gatsby-po)
+
 # - [ionic-react](https://github.com/mk-knight23/ionic-react)
 
 # - [clock](https://github.com/mk-knight23/clock)

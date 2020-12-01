@@ -34,6 +34,8 @@
 
 # - [theory](https://github.com/mk-knight23/theory)
 
+# - [future](https://github.com/mk-knight23/future)
+
 # - [imdbApi](https://github.com/mk-knight23/imdbApi)
 
 # - [git-kraken-repo](https://github.com/mk-knight23/git-kraken-repo)

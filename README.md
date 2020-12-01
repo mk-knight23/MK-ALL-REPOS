@@ -7,7 +7,7 @@
 
 # - [desktop-tutorial](https://github.com/mk-knight23/desktop-tutorial)
 
-# - [mk-courses](https://github.com/mk-knight23/mk-courses)
+# - [meme-generator](https://github.com/mk-knight23/meme-generator)
 
 # - [GITHUB PortFolio](https://github.com/mk-knight23/mk-knight23)
 

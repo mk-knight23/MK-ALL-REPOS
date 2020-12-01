@@ -38,6 +38,8 @@
 
 # - [fox](https://github.com/mk-knight23/fox)
 
+# - [wise](https://github.com/mk-knight23/wise)
+
 # - [imdbApi](https://github.com/mk-knight23/imdbApi)
 
 # - [git-kraken-repo](https://github.com/mk-knight23/git-kraken-repo)

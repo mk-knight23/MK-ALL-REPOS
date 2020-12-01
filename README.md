@@ -25,6 +25,8 @@
 
 # - [gatsby-mk2](https://github.com/mk-knight23/gatsby-mk2)
 
+# - [novela-hugo-starter](https://github.com/mk-knight23/novela-hugo-starter)
+
 # - [typing12](https://github.com/mk-knight23/typing12)
 
 # - [imdbApi](https://github.com/mk-knight23/imdbApi)

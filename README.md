@@ -16,6 +16,8 @@
 
 # - [react-drawer-image-upload](https://github.com/mk-knight23/react-drawer-image-upload)
 
+# - [futuristic-primrose](https://github.com/mk-knight23/futuristic-primrose)
+
 # - [next-js-e-commerce](https://github.com/mk-knight23/next-js-e-commerce)
 
 # - [docusaurus-2](https://github.com/mk-knight23/docusaurus-2)

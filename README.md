@@ -42,6 +42,8 @@
 
 # - [fox](https://github.com/mk-knight23/fox)
 
+# - [minipic](https://github.com/mk-knight23/minipic)
+
 # - [wise](https://github.com/mk-knight23/wise)
 
 # - [imdbApi](https://github.com/mk-knight23/imdbApi)

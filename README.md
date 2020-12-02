@@ -36,6 +36,8 @@
 
 # - [theory](https://github.com/mk-knight23/theory)
 
+# - [avalon](https://github.com/mk-knight23/avalon)
+
 # - [future](https://github.com/mk-knight23/future)
 
 # - [fox](https://github.com/mk-knight23/fox)

@@ -22,6 +22,8 @@
 
 # - [react-drawer-image-upload](https://github.com/mk-knight23/react-drawer-image-upload)
 
+# - [day-9-generate-bank-check](https://github.com/mk-knight23/day-9-generate-bank-check)
+
 # - [futuristic-primrose](https://github.com/mk-knight23/futuristic-primrose)
 
 # - [next-js-e-commerce](https://github.com/mk-knight23/next-js-e-commerce)

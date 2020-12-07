@@ -24,8 +24,6 @@
 
 # - [day-9-generate-bank-check](https://github.com/mk-knight23/day-9-generate-bank-check)
 
-# - [futuristic-primrose](https://github.com/mk-knight23/futuristic-primrose)
-
 # - [next-js-e-commerce](https://github.com/mk-knight23/next-js-e-commerce)
 
 # - [docusaurus-2](https://github.com/mk-knight23/docusaurus-2)

@@ -1,5 +1,7 @@
 # This wll contain all Major Repos BY MK KNIGHT
  
+#               HTML/CSS
+
 # - [Car](https://github.com/mk-knight23/mk3)
 
 # - [Astray-master](https://github.com/mk-knight23/Astray-master)
@@ -14,6 +16,8 @@
 
 # - [desktop-tutorial](https://github.com/mk-knight23/desktop-tutorial)
 
+#              JAVASCRIPT
+
 # - [meme-generator](https://github.com/mk-knight23/meme-generator)
 
 # - [GITHUB PortFolio](https://github.com/mk-knight23/mk-knight23)
@@ -27,6 +31,8 @@
 # - [next-js-e-commerce](https://github.com/mk-knight23/next-js-e-commerce)
 
 # - [docusaurus-2](https://github.com/mk-knight23/docusaurus-2)
+
+#               REACT
 
 # - [datocms-gatsby-po](https://github.com/mk-knight23/datocms-gatsby-po)
 
@@ -53,6 +59,8 @@
 # - [minipic](https://github.com/mk-knight23/minipic)
 
 # - [wise](https://github.com/mk-knight23/wise)
+
+#               OTHER
 
 # - [imdbApi](https://github.com/mk-knight23/imdbApi)
 

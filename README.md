@@ -42,7 +42,6 @@
 
 # - [mydemo](https://github.com/mk-knight23/mydemo)
 
-
 # - [fb-login-form](https://github.com/mk-knight23/fb-login-form)
 
 # - [ionic-react](https://github.com/mk-knight23/ionic-react)
@@ -57,15 +56,12 @@
 
 # - [day-9-generate-bank-check](https://github.com/mk-knight23/day-9-generate-bank-check)
 
-# - [next-js-e-commerce](https://github.com/mk-knight23/next-js-e-commerce)
-
-# - [docusaurus-2](https://github.com/mk-knight23/docusaurus-2)
 
 #               OTHER
 
-# - [Astray-master](https://github.com/mk-knight23/Astray-master)
+# - [next-js-e-commerce](https://github.com/mk-knight23/next-js-e-commerce)
 
-# - [fb-login-form](https://github.com/mk-knight23/fb-login-form)
+# - [docusaurus-2](https://github.com/mk-knight23/docusaurus-2)
 
 # - [mk12](https://github.com/mk-knight23/mk12)
 
@@ -73,12 +69,5 @@
 
 # - [my-card](https://github.com/mk-knight23/my-card)
 
-# - [git-kraken-repo](https://github.com/mk-knight23/git-kraken-repo)
-
 # - [mk-courses](https://github.com/mk-knight23/mk-courses)
 
-# - [DATA-ENTRY](https://github.com/mk-knight23/DATA-ENTRY)
-
-# - [upload-img-fire](https://github.com/mk-knight23/upload-img-fire)
-
-# - [GITHUB PortFolio](https://github.com/mk-knight23/mk-knight23)

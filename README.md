@@ -4,23 +4,23 @@
 
 # - [Car-Game](https://github.com/mk-knight23/mk3)
 
-# - [typing12](https://github.com/mk-knight23/typing12)
+# - [Typing-Web](https://github.com/mk-knight23/typing12)
 
 # - [MK PortFolio](https://github.com/mk-knight23/mk-portfolio)
 
-# - [theory](https://github.com/mk-knight23/theory)
+# - [Theory-Web](https://github.com/mk-knight23/theory)
 
-# - [avalon](https://github.com/mk-knight23/avalon)
+# - [Avalon-Web](https://github.com/mk-knight23/avalon)
 
-# - [future](https://github.com/mk-knight23/future)
+# - [Future-Web](https://github.com/mk-knight23/future)
 
-# - [fox](https://github.com/mk-knight23/fox)
+# - [Fox-Web](https://github.com/mk-knight23/fox)
 
-# - [minipic](https://github.com/mk-knight23/minipic)
+# - [Mini-Web](https://github.com/mk-knight23/minipic)
 
-# - [wise](https://github.com/mk-knight23/wise)
+# - [Wise-Web](https://github.com/mk-knight23/wise)
 
-# - [imdbApi](https://github.com/mk-knight23/imdbApi)
+# - [IMDB API WEB](https://github.com/mk-knight23/imdbApi)
 
 # - [git-kraken-repo](https://github.com/mk-knight23/git-kraken-repo)
 
@@ -30,19 +30,9 @@
 
 # - [Astray-master](https://github.com/mk-knight23/Astray-master)
 
+# - [Meme-Generator](https://github.com/mk-knight23/meme-generator)
 
-# - [meme-generator](https://github.com/mk-knight23/meme-generator)
-
-# - [GITHUB PortFolio](https://github.com/mk-knight23/mk-knight23)
-
-
-# - [react-drawer-image-upload](https://github.com/mk-knight23/react-drawer-image-upload)
-
-# - [day-9-generate-bank-check](https://github.com/mk-knight23/day-9-generate-bank-check)
-
-# - [next-js-e-commerce](https://github.com/mk-knight23/next-js-e-commerce)
-
-# - [docusaurus-2](https://github.com/mk-knight23/docusaurus-2)
+# - [GITHUB-PortFolio](https://github.com/mk-knight23/mk-knight23)
 
 #               REACT
 
@@ -59,13 +49,17 @@
 
 # - [clock](https://github.com/mk-knight23/clock)
 
-
 # - [desktop-tutorial](https://github.com/mk-knight23/desktop-tutorial)
-
 
 # - [novela-hugo-starter](https://github.com/mk-knight23/novela-hugo-starter)
 
+# - [react-drawer-image-upload](https://github.com/mk-knight23/react-drawer-image-upload)
 
+# - [day-9-generate-bank-check](https://github.com/mk-knight23/day-9-generate-bank-check)
+
+# - [next-js-e-commerce](https://github.com/mk-knight23/next-js-e-commerce)
+
+# - [docusaurus-2](https://github.com/mk-knight23/docusaurus-2)
 
 #               OTHER
 
@@ -78,8 +72,6 @@
 # - [my-ap](https://github.com/mk-knight23/my-ap)
 
 # - [my-card](https://github.com/mk-knight23/my-card)
-
-# - [imdbApi](https://github.com/mk-knight23/imdbApi)
 
 # - [git-kraken-repo](https://github.com/mk-knight23/git-kraken-repo)
 

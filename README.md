@@ -78,3 +78,5 @@
 # - [novela-hugo-starter](https://github.com/mk-knight23/novela-hugo-starter)
 
 # - [pink-stegosaurus](https://github.com/mk-knight23/pink-stegosaurus)
+
+# - [royal-petunia-39c63](https://github.com/mk-knight23/royal-petunia-39c63)

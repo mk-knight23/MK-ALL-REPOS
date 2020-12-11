@@ -20,6 +20,14 @@
 
 # - [wise](https://github.com/mk-knight23/wise)
 
+# - [imdbApi](https://github.com/mk-knight23/imdbApi)
+
+# - [git-kraken-repo](https://github.com/mk-knight23/git-kraken-repo)
+
+# - [DATA-ENTRY](https://github.com/mk-knight23/DATA-ENTRY)
+
+# - [upload-img-fire](https://github.com/mk-knight23/upload-img-fire)
+
 # - [Astray-master](https://github.com/mk-knight23/Astray-master)
 
 

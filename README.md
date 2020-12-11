@@ -75,3 +75,5 @@
 # - [datocms-gatsby-po](https://github.com/mk-knight23/datocms-gatsby-po)
 
 # - [novela-hugo-starter](https://github.com/mk-knight23/novela-hugo-starter)
+
+# - [pink-stegosaurus](https://github.com/mk-knight23/pink-stegosaurus)

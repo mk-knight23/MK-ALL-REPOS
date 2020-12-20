@@ -126,3 +126,11 @@
 #   IM CREATOR : http://www.im-creator.com/free/mkknight97/mk_web
 
 #   GOOGLE SITES : https://sites.google.com/view/mkknight97
+
+#   DUDA : https://mk-web.multiscreensite.com
+
+#   FORMAT : https://mk-knight.format.com
+
+#   BIG COMMERCE : https://mk-store97.mybigcommerce.com
+
+#   SHOPIFY : https://mk-store97.myshopify.com

@@ -104,3 +104,9 @@
 #   STRIKINGLY : https://site-3316260-1184-983.mystrikingly.com
 
 #   JIMBDO : https://mk-knight.jimdosite.com
+
+#   MOZELLO : https://mk-web.mozello.com
+
+#   BLOGGER : https://mktech970.blogspot.com
+
+#   ZYRO : https://mkknight97.zyrosite.com

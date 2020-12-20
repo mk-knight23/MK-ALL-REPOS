@@ -103,7 +103,7 @@
 
 #   SQAREAPACE : https://asparagus-pigeon-he8w.squarespace.com
 
-#   GODADDY : 
+#   GODADDY : https://mkweb.godaddysites.com
 
 #   STRIKINGLY : https://site-3316260-1184-983.mystrikingly.com
 

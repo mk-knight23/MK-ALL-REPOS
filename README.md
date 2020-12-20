@@ -96,3 +96,9 @@
 #   WEBFLOW :  https://mks-awesome-project-3bd6bc.webflow.io
 
 #   SITE123 : https://5fb159c647bc4.site123.me
+
+#   SQAREAPACE : https://asparagus-pigeon-he8w.squarespace.com
+
+#   GODADDY : 
+
+#   STRIKINGLY : https://site-3316260-1184-983.mystrikingly.com

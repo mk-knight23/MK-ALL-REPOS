@@ -110,3 +110,7 @@
 #   BLOGGER : https://mktech970.blogspot.com
 
 #   ZYRO : https://mkknight97.zyrosite.com
+
+#   CARRD : https://mkknight97.carrd.co
+
+#   GATOR : https://mk-web.gator.site

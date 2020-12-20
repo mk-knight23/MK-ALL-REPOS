@@ -102,3 +102,5 @@
 #   GODADDY : 
 
 #   STRIKINGLY : https://site-3316260-1184-983.mystrikingly.com
+
+#   JIMBDO : https://mk-knight.jimdosite.com

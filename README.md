@@ -47,7 +47,7 @@
 
 # - [my-ap](https://github.com/mk-knight23/my-ap)
 
-# - [my-card](https://github.com/mk-knight23/my-card)
+# - [PassWord Generator App](https://github.com/mk-knight23/my-card)
 
 # - [fb-login-form](https://github.com/mk-knight23/fb-login-form)
 

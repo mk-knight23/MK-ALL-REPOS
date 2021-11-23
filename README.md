@@ -1,6 +1,6 @@
 # This wll contain all Major Repos BY MK KNIGHT KAZI
  
-#               HTML/CSS
+#               HTML , CSS AND JS
 
 # - [Car-Game](https://github.com/mk-knight23/mk3) 
 
@@ -56,6 +56,8 @@
 # - [fb-login-form](https://github.com/mk-knight23/fb-login-form)
 
 # - [Meme-Generator-Web](https://github.com/mk-knight23/meme-generator)
+
+# - [SQUID Game](https://github.com/mk-knight23/Squid-game)
 
 # - [Ionic-REACT](https://github.com/mk-knight23/ionic-react)
 

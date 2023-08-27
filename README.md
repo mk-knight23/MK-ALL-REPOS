@@ -48,6 +48,10 @@ https://github.com/mk-knight23/Text-to-Speech
 
 https://github.com/mk-knight23/APTI-CAL
 
+https://github.com/mk-knight23/mktech
+
+https://github.com/mk-knight23/MK23
+
 
 #               REACT
 
@@ -79,7 +83,14 @@ https://github.com/mk-knight23/APTI-CAL
 
 # - [day-9-generate-bank-check](https://github.com/mk-knight23/day-9-generate-bank-check)
 
-#               OTHER
+https://github.com/mk-knight23/project_weather_pwa-master
+
+https://github.com/mk-knight23/electron1
+
+https://github.com/mk-knight23/fire-copy
+
+
+#               OTHER Than React But JS Included 
 
 # - [mk-app4](https://github.com/mk-knight23/mk-app4)
 
@@ -100,6 +111,11 @@ https://github.com/mk-knight23/Resume
 https://github.com/mk-knight23/Sum-of-numbers-in-range
 
 https://github.com/mk-knight23/kaziapp
+
+https://github.com/mk-knight23/AwesomeProject
+
+https://github.com/mk-knight23/ionic-react
+
 
 #             WEBSITE BUILDER
 
@@ -175,6 +191,10 @@ https://github.com/mk-knight23/LangChainApp
 
 https://github.com/mk-knight23/Python-all
 
+https://github.com/mk-knight23/flask-project
+
+https://github.com/mk-knight23/django-project
+
 #          Java Technology Projects 
 
 https://github.com/mk-knight23/Java_Practice
@@ -202,6 +222,16 @@ https://github.com/mk-knight23/flying-dog-beers
 https://github.com/mk-knight23/WEB-D
 
 https://github.com/mk-knight23/project1
+
+https://github.com/mk-knight23/Cadwork_Internship
+
+https://github.com/mk-knight23/DharmadhikariSS
+
+https://github.com/mk-knight23/50projects50days
+
+https://github.com/mk-knight23/react-faker
+
+https://github.com/mk-knight23/BlogVlog
 
 
 #          Demos Repos For HacktoberFest

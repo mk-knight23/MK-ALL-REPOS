@@ -42,6 +42,12 @@
 
 # - [JavaScript-Dragon-Game](https://github.com/mk-knight23/JavaScript-Dragon-Game)
 
+https://github.com/mk-knight23/Squid-game
+
+https://github.com/mk-knight23/Text-to-Speech
+
+https://github.com/mk-knight23/APTI-CAL
+
 
 #               REACT
 
@@ -88,6 +94,12 @@
 # - [pink-stegosaurus](https://github.com/mk-knight23/pink-stegosaurus)
 
 # - [royal-petunia-39c63](https://github.com/mk-knight23/royal-petunia-39c63)
+
+https://github.com/mk-knight23/Resume
+
+https://github.com/mk-knight23/Sum-of-numbers-in-range
+
+https://github.com/mk-knight23/kaziapp
 
 #             WEBSITE BUILDER
 
@@ -145,13 +157,81 @@
 
 #          Websites using CHatGPT
 
+https://github.com/mk-knight23/WebsiteChatGpt
+
+
+
 #          React App Using ChatGPT
+
+https://github.com/mk-knight23/ReactVercel
+
+https://github.com/mk-knight23/Reactcodechatgpt
 
 #          Python Technology Projects 
 
+https://github.com/mk-knight23/Python_Practice
+
+https://github.com/mk-knight23/LangChainApp
+
+https://github.com/mk-knight23/Python-all
+
 #          Java Technology Projects 
+
+https://github.com/mk-knight23/Java_Practice
 
 #          Other Developers Forked Repo,s
 
+https://github.com/mk-knight23/Movie-Recommendation-System
+
+https://github.com/mk-knight23/oibsip_taskno_2-Level-2-Tribute_Page
+
+https://github.com/mk-knight23/Gallary
+
+https://github.com/mk-knight23/Alexandria
+
+https://github.com/mk-knight23/Online_MarkSheet_Template
+
+https://github.com/mk-knight23/DSA-Bootcamp-Java
+
+https://github.com/mk-knight23/Plotter 
+
+https://github.com/mk-knight23/imdbApi
+
+https://github.com/mk-knight23/flying-dog-beers
+
+https://github.com/mk-knight23/WEB-D
+
+https://github.com/mk-knight23/project1
 
 
+#          Demos Repos For HacktoberFest
+
+https://github.com/mk-knight23/Hacktoberfest2022-1
+
+https://github.com/mk-knight23/Hacktoberfest2022
+
+https://github.com/mk-knight23/hacktoberfest-java
+
+https://github.com/mk-knight23/hacktoberfest2021-1
+
+https://github.com/mk-knight23/hello-Mk
+
+https://github.com/mk-knight23/Demo
+
+https://github.com/mk-knight23/demo4
+
+https://github.com/mk-knight23/demo2
+
+https://github.com/mk-knight23/demo3
+
+https://github.com/mk-knight23/demo1
+
+https://github.com/mk-knight23/mk1
+
+https://github.com/mk-knight23/mydemo
+
+https://github.com/mk-knight23/hack2
+
+#    Capstone Project 
+
+https://github.com/mk-knight23/Capstone-World-app

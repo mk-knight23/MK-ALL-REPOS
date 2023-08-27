@@ -10,13 +10,6 @@ Welcome to my GitHub profile! Here you'll find a collection of projects spanning
 - [MK Portfolio](https://github.com/mk-knight23/mk-portfolio)
 - [GITHUB Portfolio](https://github.com/mk-knight23/mk-knight23)
 - [Typing-Web](https://github.com/mk-knight23/typing12)
-- [Theory-Web](https://github.com/mk-knight23/theory)
-- [Avalon-Web](https://github.com/mk-knight23/avalon)
-- [Future-Web](https://github.com/mk-knight23/future)
-- [Fox-Web](https://github.com/mk-knight23/fox)
-- [Mini-Web](https://github.com/mk-knight23/minipic)
-- [Wise-Web](https://github.com/mk-knight23/wise)
-- [Sendra-Web](https://github.com/mk-knight23/sendra)
 - [IMDB-WEB](https://github.com/mk-knight23/imdbApi)
 - [Ion-Web](https://github.com/mk-knight23/mk-courses)
 - [Img-Web](https://github.com/mk-knight23/upload-img-fire)
@@ -31,6 +24,17 @@ Welcome to my GitHub profile! Here you'll find a collection of projects spanning
 - [APTI-CAL](https://github.com/mk-knight23/APTI-CAL)
 - [mktech](https://github.com/mk-knight23/mktech)
 - [MK23](https://github.com/mk-knight23/MK23)
+
+
+### HTML, CSS, and JS Templates To USE
+- [Theory-Web](https://github.com/mk-knight23/theory)
+- [Avalon-Web](https://github.com/mk-knight23/avalon)
+- [Future-Web](https://github.com/mk-knight23/future)
+- [Fox-Web](https://github.com/mk-knight23/fox)
+- [Mini-Web](https://github.com/mk-knight23/minipic)
+- [Wise-Web](https://github.com/mk-knight23/wise)
+- [Sendra-Web](https://github.com/mk-knight23/sendra)
+
 
 ### React
 

@@ -1,4 +1,4 @@
-# This wll contain all Major Repos BY MK KNIGHT KAZI
+# This wll contain all Repos BY MK KNIGHT KAZI
  
 #               HTML , CSS AND JS
 

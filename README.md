@@ -1,6 +1,6 @@
 # MK Knight Kazi's GitHub Repositories
 
-Welcome to my GitHub profile! Here you'll find a collection of projects spanning various technologies, including web development, React, Python, Java, and more. Feel free to explore and check out my work. 
+Welcome to my GitHub profile! Here you'll find a collection of projects spanning various technologies, including web development, React, Python, Java, and more. Feel free to explore and check out my work. hello
 
 ## Repositories by Category
 
